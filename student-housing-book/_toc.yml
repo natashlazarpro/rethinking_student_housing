@@ -50,7 +50,6 @@ parts:
   chapters:
     - file: notebooks/6.1_references
     - file: notebooks/xx_materials_and_data
-    - file: notebooks/xx_behavioral_study
     - file: notebooks/xx_color_palettes
 
 

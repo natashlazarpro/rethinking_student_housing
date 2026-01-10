@@ -21,7 +21,9 @@ jobs:
     - name: Install dependencies
       run: uv sync
     - name: Build the book
-      run: jupyter-book build student-housing-book
+      run: |
+      cd student-housing-book
+      jupyter-book build
     - name: Deploy Jupyter book to GitHub pages
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:

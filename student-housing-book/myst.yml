@@ -1,0 +1,61 @@
+version: 1
+project:
+  title: Rethinking Student Housing in Berlin
+  authors:
+    - name: Lazareva Nataliia
+    - name: Urban Design M.Sc.
+    - name: Technical University of Berlin
+  copyright: '2025'
+  github: executablebooks/jupyter-book
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: intro.md
+    - title: 0. Prelimitary Pages
+      children:
+        - file: notebooks/0.1_title_page.md
+        - file: markdowns/0.2_table_of_contens.md
+        - file: notebooks/0.3_list_of_figures.ipynb
+        - file: notebooks/0.4_list_of_tables.ipynb
+    - title: 1. Introduction
+      children:
+        - file: notebooks/1.1_european_student_accommodation_crisis.ipynb
+        - file: notebooks/1.2_berlin_housing_crisis_history.md
+        - file: notebooks/1.3_theoretical_framework.md
+        - file: notebooks/1.4_rethinking_student_housing.md
+    - title: 2. Capacities, Demand & Spatial Distribution
+      children:
+        - file: notebooks/2.1_overview.md
+        - file: notebooks/2.2_urban_data_mining.ipynb
+        - file: notebooks/2.3_descriptive_market_statistics.ipynb
+        - file: notebooks/2.4_global_spatial_autocorrelation.ipynb
+    - title: 3. Student Housing Market Imbalance
+      children:
+        - file: notebooks/3.1_overview.md
+        - file: notebooks/3.2_central_place_analysis.ipynb
+        - file: notebooks/3.3_market_pressure_analysis.ipynb
+    - title: 4. Students Behind the Numbers
+      children:
+        - file: notebooks/4.1_overview.md
+        - file: notebooks/4.2_students_needs_and_preferences.ipynb
+        - file: notebooks/4.3_students_experiences.ipynb
+    - title: 5. Data-Driven Decisions
+      children:
+        - file: notebooks/5.1_conclusion.md
+        - file: notebooks/5.2_discussion.md
+        - file: notebooks/5.3_future_research.md
+    - title: 6. Appendix
+      children:
+        - file: notebooks/6.1_references.ipynb
+        - file: notebooks/xx_materials_and_data.ipynb
+        - file: notebooks/xx_behavioral_study
+        - file: notebooks/xx_color_palettes.ipynb
+site:
+  options:
+    logo: logo/logo.png
+    folders: true
+  template: book-theme
