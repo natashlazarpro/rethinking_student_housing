@@ -21,10 +21,10 @@ jobs:
     - name: Install dependencies
       run: uv sync
     - name: Build the book
-      run: env TF_CPP_MIN_LOG_LEVEL=3 jupyter-book build student-housing-book
+      run: jupyter-book build student-housing-book
     - name: Deploy Jupyter book to GitHub pages
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: _build/html
+        publish_dir: student-housing-book/_build/html
         force_orphan: true
