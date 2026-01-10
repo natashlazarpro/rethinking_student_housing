@@ -6,7 +6,7 @@ project:
     - name: Urban Design M.Sc.
     - name: Technical University of Berlin
   copyright: '2025'
-  github: executablebooks/jupyter-book
+  github: natashlazarpro/rethinking_student_housing
   bibliography:
     - references.bib
   exports:

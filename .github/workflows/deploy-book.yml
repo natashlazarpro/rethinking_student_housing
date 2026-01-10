@@ -23,6 +23,8 @@ jobs:
     - name: Install dependencies
       run: uv sync
     - name: Build the book
+      env:
+        BASE_URL: /rethinking_student_housing
       run: |
         cd student-housing-book
         jupyter-book build --html
