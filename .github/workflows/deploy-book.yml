@@ -24,7 +24,7 @@ jobs:
       run: |
         cd student-housing-book
         jupyter-book build
-        
+        cd ../
     - name: Deploy Jupyter book to GitHub pages
       uses: peaceiris/actions-gh-pages@v3.6.1
       with:
