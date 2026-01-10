@@ -1,0 +1,29 @@
+[project]
+name = "rethinking-student-housing"
+version = "0.1.0"
+description = "The study aims to combine spatial, quantitative and qualitative analysis to go beyond abstract market indicators."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chardet~=5.2",
+    "geopandas~=1.1",
+    "geopy~=2.4",
+    "gspread~=6.2",
+    "jupyter-book~=2.1",
+    "matplotlib~=3.10",
+    "numpy~=2.4",
+    "osmnx~=2.0",
+    "owslib~=0.35",
+    "pandas~=2.3",
+    "pathlib~=1.0",
+    "pyproj~=3.7",
+    "pywaffle~=1.1",
+    "ratelimiter~=1.2",
+    "requests~=2.32",
+    "scikit-learn~=1.8",
+    "scipy~=1.16",
+    "seaborn~=0.13",
+    "shapely~=2.1",
+    "sqlalchemy~=2.0",
+    "tqdm~=4.67",
+]

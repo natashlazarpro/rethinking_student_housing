@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ccef4056-dc10-4f7f-93d8-7c4d8f2d0b0d
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/natashlazarpro/rethinking_student_housing
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
