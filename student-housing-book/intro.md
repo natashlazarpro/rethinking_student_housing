@@ -95,4 +95,15 @@ ISOCHRONIC TABLES
 GRAVITATIONAL ISOHRONES
 IF IT POSSIBLE TO INCLUDE THE PUBLIC TRANSPORTATION IN GRAVITY CORRIDOS
 
-JUSTIFICATION OF methodology
+JUSTIFICATION OF methodology#
+
+
+direct citetion more clean in brakets 
+
+code in boxes 
+
+crapter references 
+
+theoretical reflection circle back 
+
+
