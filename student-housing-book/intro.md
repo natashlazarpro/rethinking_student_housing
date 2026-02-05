@@ -37,11 +37,10 @@ numerate the tables and figires, have a list of figures and list if tables
 
 *change data paths  search for /Users/natashlaz/*
 
-TODO: add 1.2, 3,4 , 5.6 to headings in every notobook in the end
+*add 1.2, 3,4 , 5.6 to headings in every notobook in the end*
+*deside where is low case where is up case *
 
-TODO: deside where is low case where is up case 
-
-TODO: accomodation , capasity search - grammar check !!!!
+*accomodation , capasity search - grammar check !!!!*
 
 TODO: следелать компактные таблицы  
 
@@ -97,6 +96,10 @@ IF IT POSSIBLE TO INCLUDE THE PUBLIC TRANSPORTATION IN GRAVITY CORRIDOS
 
 JUSTIFICATION OF methodology#
 
+
+
+
+FORMATING EXPORT
 
 direct citetion more clean in brakets 
 
