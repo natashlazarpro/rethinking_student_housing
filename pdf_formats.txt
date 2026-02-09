@@ -1,0 +1,96 @@
+
+AGU Journal                   agu2019
+Description: The official 2019 AGU Journal template
+Tags: paper, journal, geoscience, earthscience
+
+arXiv (NIPS Style)            arxiv_nips
+Description: An arXiv compatible template based on the NIPS 2018 Style
+Tags: paper, preprint, arxiv, bioarxiv, eartharxiv
+
+arXiv (Two Column)            arxiv_two_column
+Description: A two column arXiv compatible template
+Tags: paper, two-column, preprint, arxiv, bioarxiv, eartharxiv
+
+EarthArXiv                    eartharxiv
+Description: A preprint template for EarthArXiv with the AGU bibstyle
+Tags: paper, geoscience, earthscience, preprint
+
+Frontiers                     frontiers
+Description: A template for the Frontiers In range of Journals
+Tags: paper, journal
+
+Physiome Journal              physiome
+Description: Physiome publishes articles describing physiological models which demonstrate that the mathematical model, model implementation, and simulation results are consistent and reproducible. Physiome articles must be linked to primary papers published in or accepted to a peer-reviewed physiology, bioengineering or biophysics journal.
+Tags: article, paper
+
+SPIE Proceedings              spie_proceedings
+Description: A template using the styles provided by the SPIE for publications in their proceedings
+Tags: paper, proceedings
+
+Volcanica                     volcanica
+Description: A template for submissions to the Volcanica journal
+Tags: paper, journal, two-column, geoscience, earthscience
+
+Curvenote Default             curvenote
+Description: A paper styled template using the custom environments and styling to match Curvenote Web
+Tags: article, paper
+
+EGU Copernicus                egu_copernicus
+Description: A template based on the the Copernicus Publications LaTeX Macro Package
+Tags: paper, journal
+
+MDPI Journal                  mdpi
+Description: A template for the MDPI range of Journals
+Tags: paper, journal
+
+Plain LaTeX                   plain_latex
+Description: A minimal template that only uses vanilla LaTeX commands and environments
+Tags: article, paper, vanilla
+
+Plain LaTeX Book              plain_latex_book
+Description: A plain latex book theme
+Tags: book
+
+LaPreprint                    lapreprint
+Description: A template for easily creating pretty, nicely formatted preprints in LaTeX
+Tags: paper, journal, preprint
+
+ISPRS - Full Paper            isprs
+Description: ISPRS Full Paper template
+Tags: paper, two_column
+
+Physical Review Journals      physical_review_journals
+Description: Template for Physical Review Journals
+Tags: paper, two-column
+
+Computers & Geosciences       cageo
+Description: Latex template for the Computers & Geosciences journal by Elsevier
+Please confirm that your submission follows all the requirements of the guidelines, including the submission checklist:
+  - Cover letter
+  - Highlights
+  - Authorship statement
+  - The manuscript must be single column and double spaced
+  - Reference must be in the author-date format
+  - Code availability section 
+The manuscripts that do meet the requirement guidelines will be desk-rejected.
+
+Tags: paper, single_column, two_column
+
+Springer                      springer
+Description: Official template for Springer journals
+Tags: paper, two-column
+
+IEEE Typst Template           ieee-typst
+Description: IEEE Template from Typst app, updated as a MyST template
+Tags: ieee, article, paper
+
+LaPreprint Typst Template     lapreprint-typst
+Description: Easily create beautiful preprints in Typst
+Tags: preprint, article, paper
+
+Plain Typst Book              plain_typst_book
+Description: Easily create beautiful books in Typst
+Tags: book
+
+
+bash build_pdf.sh
