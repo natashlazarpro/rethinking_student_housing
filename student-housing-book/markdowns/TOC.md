@@ -48,19 +48,10 @@
 
 # 5. Data-Driven Decisions
 
-- [5.1 Summary Of Findings](notebooks/5.1_summary_of_findings)
+- [5.1 Conclusion](notebooks/5.1_conclusion)
 
-- [5.2 Discussion](notebooks/5.2_discussion)
-
-- [5.3 Future Research](notebooks/5.3_future_research)
+- [5.2 Reflection](notebooks/5.2_reflection)
 
 # 6. Appendix
 
-- [Xx Bibliography](notebooks/xx_bibliography)
-
-- [Xx Behavioral Study](notebooks/xx_behavioral_study)
-
-- [Xx Materials And Data](notebooks/xx_materials_and_data)
-
-- [Xx Color Palettes](notebooks/xx_color_palettes)
-
+- [6.1 References](notebooks/6.1_references)

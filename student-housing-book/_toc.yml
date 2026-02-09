@@ -42,20 +42,9 @@ parts:
 - caption: "5. Data-Driven Decisions"
   chapters: 
     - file: notebooks/5.1_conclusion
-    - file: notebooks/5.2_discussion
-    - file: notebooks/5.3_future_research
-
+    - file: notebooks/5.2_reflection
 
 - caption: "6. Appendix"
   chapters:
     - file: notebooks/6.1_references
-    - file: notebooks/xx_materials_and_data
-    - file: notebooks/xx_color_palettes
-
-
-# - caption: "7. Milano Workshop"
-#   chapters: []
-
-# - caption: "8. Datasets"
-#   chapters: []
 
