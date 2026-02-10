@@ -94,3 +94,7 @@ Tags: book
 
 
 bash build_pdf.sh
+
+ib5@pruefungen.tu-berlin.de, andreas.brueck@tu-berlin.de, lech.suwala@tu-berlin.de
+
+bash build_html.sh
