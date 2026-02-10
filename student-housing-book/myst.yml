@@ -11,7 +11,7 @@ project:
   exports:
     - format: pdf
       template: curvenote 
-      output: exports/draft.pdf
+      output: exports/draft2.pdf
 
   toc:
     - file: intro.md
