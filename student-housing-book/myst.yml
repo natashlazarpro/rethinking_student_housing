@@ -7,15 +7,12 @@ project:
     - name: Technical University of Berlin
   copyright: '2026'
   github: natashlazarpro/rethinking_student_housing
-  bibliography:
-    - references.bib
   exports:
     - format: pdf
       template: curvenote 
       output: exports/draft.pdf
 
   toc:
-    - file: intro.md
     - title: 0. Prelimitary Pages
       children:
         - file: notebooks/0.1_title_page.md
@@ -47,14 +44,10 @@ project:
     - title: 5. Data-Driven Decisions
       children:
         - file: notebooks/5.1_conclusion.md
-        - file: notebooks/5.2_discussion.md
-        - file: notebooks/5.3_future_research.md
+        - file: notebooks/5.2_reflection.md
     - title: 6. Appendix
       children:
         - file: notebooks/6.1_references.ipynb
-        - file: notebooks/xx_materials_and_data.ipynb
-        - file: notebooks/xx_behavioral_study
-        - file: notebooks/xx_color_palettes.ipynb
 site:
   options:
     logo: logo/logo.png
