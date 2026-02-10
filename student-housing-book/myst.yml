@@ -13,6 +13,7 @@ project:
       output: exports/draft.pdf
 
   toc:
+    - file: intro.md
     - title: 0. Prelimitary Pages
       children:
         - file: notebooks/0.1_title_page.md
